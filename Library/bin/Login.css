@@ -1,0 +1,27 @@
+.text-field {
+    -fx-font-size: 14px;
+    -fx-padding: 10px;
+    -fx-background-radius: 10;
+    -fx-border-radius: 10;
+    -fx-background-color: #f0f4f8;
+    -fx-border-color: #ccc;
+}
+
+.login-button {
+    -fx-background-color: #4e9af1;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-padding: 10px;
+    -fx-background-radius: 10;
+    -fx-border-radius: 10;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.2), 4, 0.2, 0, 2);
+}
+
+.login-button:hover {
+    -fx-background-color: #3b8eea;
+    -fx-cursor: hand;
+}
+
+.label {
+    -fx-font-weight: bold;
+}

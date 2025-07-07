@@ -1,0 +1,8 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "C:/Users/Zakir/Desktop/Library/Library/javafx-sdk-24.0.1/lib/*.jar"
+  ],
+  "java.project.sourcePaths": ["src"],
+  "java.jdt.ls.vmargs": "--add-modules=ALL-MODULE-PATH"
+}

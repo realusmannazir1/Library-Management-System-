@@ -1,0 +1,59 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "DynamicTableView",
+      "request": "launch",
+      "mainClass": "Programs.DynamicTableView",
+      "projectName": "Library_38232f07"
+    },
+    {
+      "type": "java",
+      "name": "Practice",
+      "request": "launch",
+      "mainClass": "Programs.Practice",
+      "projectName": "Library_38232f07",
+      "vmArgs": "--module-path \"C:/Users/Zakir/Desktop/Library/Library/javafx-sdk-24.0.1/lib\" --add-modules javafx.controls,javafx.graphics"
+    },
+    {
+      "type": "java",
+      "name": "ConnectionTest",
+      "request": "launch",
+      "mainClass": "Programs.ConnectionTest",
+      "projectName": "Library_38232f07"
+    },
+    {
+      "type": "java",
+      "name": "AddBook",
+      "request": "launch",
+      "mainClass": "Programs.AddBook",
+      "projectName": "Library_38232f07",
+      "vmArgs": "--module-path \"C:/Users/Zakir/Desktop/Library/Library/javafx-sdk-24.0.1/lib\" --add-modules javafx.controls,javafx.graphics"
+    },
+    {
+      "type": "java",
+      "name": "AddMember",
+      "request": "launch",
+      "mainClass": "Programs.AddMember",
+      "projectName": "Library_38232f07",
+      "vmArgs": "--module-path \"C:/Users/Zakir/Desktop/Library/Library/javafx-sdk-24.0.1/lib\" --add-modules javafx.controls,javafx.graphics"
+    },
+    {
+      "type": "java",
+      "name": "Dashboard",
+      "request": "launch",
+      "mainClass": "Programs.Dashboard",
+      "projectName": "Library_38232f07",
+      "vmArgs": "--module-path \"C:/Users/Zakir/Desktop/Library/Library/javafx-sdk-24.0.1/lib\" --add-modules javafx.controls,javafx.graphics"
+    },
+    {
+      "type": "java",
+      "name": "LoginPage",
+      "request": "launch",
+      "mainClass": "Programs.LoginPage",
+      "projectName": "Library_38232f07",
+      "vmArgs": "--module-path \"C:/Users/Zakir/Desktop/Library/Library/javafx-sdk-24.0.1/lib\" --add-modules javafx.controls,javafx.graphics"
+    }
+  ]
+}

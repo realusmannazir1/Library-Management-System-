@@ -1,0 +1,84 @@
+
+.root {
+    -fx-background-color: transparent;
+}
+
+.background-overlay {
+    -fx-background-color: rgba(0, 0, 0, 0.5);
+}
+
+.Virt-form {
+    -fx-background-color: rgba(0, 0, 0, 0.6);
+    
+    -fx-padding: 40 30 40 30;
+}
+
+
+.library-title {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: rgb(255, 255, 255);
+    -fx-padding: 23px;
+    -fx-background-color: rgba(0, 0, 0, 0.6);
+     -fx-font-family: "Georgia", "Times New Roman", "Palatino", serif;
+    
+}
+
+
+
+
+
+.button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 13px;
+    -fx-pref-width: 170px;
+    -fx-pref-height: 50px;
+    -fx-cursor: hand;
+   
+}
+
+.button:hover {
+    -fx-effect: dropshadow(gaussian, rgb(0, 0, 0), 20, 0.4, 0, 4);
+    -fx-scale-x: 1.02;
+    -fx-scale-y: 1.02;
+}
+.button:pressed {
+    -fx-background-color: #c22510;
+    -fx-scale-x: 1.02;
+    -fx-scale-y: 1.02;
+    
+    
+}
+
+
+
+/* Style the tabs */
+
+.centered-tab-pane .tab {
+    -fx-pref-width: 120px;
+    -fx-pref-height: 30px;
+    -fx-background-color: #e0e0e0;
+    -fx-background-radius: 5px 5px 0 0;
+}
+
+.centered-tab-pane .tab:selected {
+    -fx-background-color: #746868;
+    -fx-border-color: #c0c0c0;
+    -fx-border-width: 1px 1px 0 1px;
+}
+
+/* Style the tab content area */
+.centered-tab-pane .tab-content-area {
+    -fx-background-color: #1a1818;
+    -fx-border-color: #c0c0c0;
+    -fx-border-width: 0 1px 1px 1px;
+    -fx-padding: 10px;
+}
+
+.profile {
+    
+    -fx-pref-width: 150px;
+    -fx-pref-height: 20px;
+}

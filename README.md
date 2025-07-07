@@ -94,7 +94,7 @@ Before running this application, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Library-Management-System.git
+git clone https://github.com/realusmannazir1/Library-Management-System.git
 cd Library-Management-System
 ```
 

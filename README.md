@@ -200,3 +200,8 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ---
 
 **Note**: This is a desktop application built for educational purposes. For production use, consider implementing additional security measures and error handling.
+
+
+
+For PROJECT FEEL FREE TO CONTACT ME: realusmannazir@gmail.com
+
